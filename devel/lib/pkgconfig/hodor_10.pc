@@ -1,0 +1,8 @@
+prefix=/home/pratik/hoia_ws/devel
+
+Name: hodor_10
+Description: Description of hodor_10
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

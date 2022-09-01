@@ -1,0 +1,8 @@
+prefix=/home/pratik/hoia_ws/devel
+
+Name: hodor_sim
+Description: Description of hodor_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
